@@ -1,4 +1,4 @@
 # SocialNetworkApp
 
 
-![](ndemo.gif)
+![](https://media.giphy.com/media/gJtPtGhbkGiPGlgbEG/giphy.gif)
